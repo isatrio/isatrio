@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there I'm Yudhi Satrio 👋
 
-- 🔭 I’m currently working on Dailymotion
+- You can call me Yudhi (pronounce: yoo - dee)
+- 🔭 I’m currently working on Dailymotion as Support Engineer in APAC
+- 💬 Ask me anything about video player, A11y, and remote working habit
 - 🌱 I’m currently learning JAMStack
 
 **Wanna create an awesome video player? Ping me! 😉**
