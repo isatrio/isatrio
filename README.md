@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Dailymotion
 - 🌱 I’m currently learning JAMStack
 
+**Wanna create an awesome video player? Ping me!**
+
 <!--
 **isatrio/isatrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
