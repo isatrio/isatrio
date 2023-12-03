@@ -1,9 +1,9 @@
 ### Hi there I'm Yudhi Satrio 👋
 
-- You can call me Yudhi (pronounce: yoo - dee)
-- 🔭 I’m currently working on Dailymotion as Custom Solution Manager in APAC
+- You can call me Yudhi (pronounce: you - dee)
+- 🔭 I’m currently working on Dailymotion as Hybrid Project Manager (means I'm still coding) in APAC
 - 💬 Ask me anything about video player, A11y, and remote working habit
-- 🌱 I’m currently learning JAMStack
+- 🌱 I’m building a language to communicate between team, yes, design system 
 
 **Wanna create an awesome video player? Ping me! 😉**
 
